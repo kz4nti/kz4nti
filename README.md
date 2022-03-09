@@ -1,8 +1,7 @@
 - 👋 Привет,я kz4nti
 - 👀 Меня интересует кодирование на питоне 
 - 😊 В настоящее время я учусь писать код и хочу на этом заработать 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 kz4nti/kz4nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
